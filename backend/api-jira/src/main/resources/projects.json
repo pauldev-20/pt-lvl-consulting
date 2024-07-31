@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Proyecto de App",
+        "code": "ATA-1",
+        "state": "PLANIFICACION",
+        "description": "Ok",
+        "dateStart": "2024-06-01",
+        "dateEnd": "2024-07-01",
+        "share": false,
+        "user": {
+            "id": 1
+        }
+    },
+    {
+        "name": "Diseño dd RR.SS.",
+        "code": "PA-21",
+        "state": "EN_CURSO",
+        "description": "Ok",
+        "dateStart": "2024-05-01",
+        "dateEnd": "2024-06-01",
+        "share": false,
+        "user": {
+            "id": 1
+        }
+    },
+    {
+        "name": "Progrmacion de App",
+        "code": "PA-2",
+        "state": "EN_REVISION",
+        "description": "Ok",
+        "dateStart": "2024-07-01",
+        "dateEnd": "2024-07-10",
+        "share": false,
+        "user": {
+            "id": 1
+        }
+    },
+    {
+        "name": "Control de Calidad",
+        "code": "ATA-1",
+        "state": "FINALIZADO",
+        "description": "Ok",
+        "dateStart": "2024-04-01",
+        "dateEnd": "2024-05-01",
+        "share": false,
+        "user": {
+            "id": 1
+        }
+    },
+    {
+        "name": "Notificaciones de App",
+        "code": "ATA-1",
+        "state": "PLANIFICACION",
+        "description": "Ok",
+        "dateStart": "2024-04-01",
+        "dateEnd": "2024-04-20",
+        "share": false,
+        "user": {
+            "id": 1
+        }
+    },
+    {
+        "name": "Pago de ventanilla",
+        "code": "PA-2",
+        "state": "EN_REVISION",
+        "description": "Ok",
+        "dateStart": "2024-06-01",
+        "dateEnd": "2024-07-01",
+        "share": false,
+        "user": {
+            "id": 1
+        }
+    }
+]
